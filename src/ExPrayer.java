@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class ExPrayer implements ExChangeLocation {
     void startPrayer(ArrayList<Locations> locations){
         Integer count=0;
-        while (True) {
+        while (true){
             ExPrayer exPrayer= new ExPrayer();
             count++;
             if (count ==3) {
