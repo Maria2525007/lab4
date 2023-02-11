@@ -1,4 +1,6 @@
+package ItemsOrPersons;
+
 public interface createItemsAndPersons {
     MumiFather createMumiFather();
-    Fog createFog();
+    MumiFather createFog();
 }
